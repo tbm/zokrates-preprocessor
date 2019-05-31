@@ -10,13 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/EYBlockchain/zokrates-preprocessor.git"
   },
-  "author": "",
-  "license": "UNLICENSE",
+  "author": "duncan.westland@uk.ey.com, michael.connor@uk.ey.com",
+  "license": "CC0",
   "bugs": {
     "url": "https://github.com/EYBlockchain/zokrates-preprocessor/issues"
   },
   "homepage": "https://github.com/EYBlockchain/zokrates-preprocessor#readme",
   "dependencies": {
-    "yargs": "^13.2.2"
+    "yargs": "^13.2.4"
   }
 }
