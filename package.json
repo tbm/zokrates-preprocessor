@@ -1,0 +1,22 @@
+{
+  "name": "zokrates-preprocessor",
+  "version": "1.0.0",
+  "description": "preprocessor for Zokrates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EYBlockchain/zokrates-preprocessor.git"
+  },
+  "author": "",
+  "license": "UNLICENSE",
+  "bugs": {
+    "url": "https://github.com/EYBlockchain/zokrates-preprocessor/issues"
+  },
+  "homepage": "https://github.com/EYBlockchain/zokrates-preprocessor#readme",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  }
+}
