@@ -386,7 +386,7 @@ will expand to:
 `z62==Z62`
 `z63==Z63`
 
-Note: this could also be achieved with star and squiggley bracket notation:
+Note: this could also be achieved with star and squiggly bracket notation:
 
 E.g. `{z*==Z*}63...0`
 
